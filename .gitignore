@@ -1,5 +1,6 @@
 *.log
-
+*.mp4
+*.xlsx
 token/
 data/
 logs/
